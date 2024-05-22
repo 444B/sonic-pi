@@ -1,8 +1,8 @@
 # author: @444b
 # date: 27.02.2024
-# title: 
+# title: A script to hear all synths.
 
-# This sonic pi script will cycle through each synth and play each one
+# Description: This sonic pi script will cycle through each synth and play each one
 # it also prints the name of the synth to the log so you can play around and remember which ones you like
 
 

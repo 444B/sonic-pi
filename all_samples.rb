@@ -2,8 +2,8 @@
 # date: 22.05.2024
 # title: A script to hear all samples
 
-# This sonic pi script will cycle through each synth and play each one
-# it also prints the name of the synth to the log so you can play around and remember which ones you like
+# Description:  This sonic pi script will cycle through each synth and play each one
+# It also prints the name of the synth to the log so you can play around and remember which ones you like
 
 
 # Get the list of all available sample categories
