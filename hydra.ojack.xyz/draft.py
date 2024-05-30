@@ -21,7 +21,7 @@ content = f"""// ---------------------------------------------------------------
 // Date: {date_for_filename}
 // Unix: {current_unix_time}
 // Author: @444b
-// Licence: licensed with CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+// Licence: CC BY-NC-SA 4.0 - https://creativecommons.org/licenses/by-nc-sa/4.0/
 //
 // Description: 
 // ------------------------------------------------------------------------- //

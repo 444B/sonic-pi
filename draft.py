@@ -21,7 +21,7 @@ content = f"""# ----------------------------------------------------------------
 # Date: {date_for_filename}
 # Unix: {current_unix_time}
 # Author: @444b
-# Licence: MIT Licence https://www.tldrlegal.com/license/mit-license
+# Licence: MIT Licence - https://www.tldrlegal.com/license/mit-license
 #
 # Description:
 # --------------------------------------------------------------------------- #

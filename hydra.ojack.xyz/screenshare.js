@@ -4,7 +4,7 @@
 // Date: 2024-05-30
 // Unix: 1717089397
 // Author: @444b
-// Licence: licensed with CC BY-NC-SA 4.0 https://www.tldrlegal.com/license/creative-commons-attribution-noncommercial-sharealike-4-0-international-cc-by-nc-sa-4-0
+// Licence: CC BY-NC-SA 4.0 - https://creativecommons.org/licenses/by-nc-sa/4.0/
 //
 // Description: 
 // ------------------------------------------------------------------------- //
