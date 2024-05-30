@@ -1,18 +1,28 @@
-# author: @444b
-# date: 27.02.2024
-# title: Heartbeat
+# --------------------------------------------------------------------------- #
+# Title: heartbeats.rb
+#
+# Date: 2024-02-27
+# Unix: 1709052115
+# Author: @444b
+#
+# Description: This script uses two live_loops to create a simple heartbeat
+# sound.
+#
 
-# Description: This script uses two live_loops to create a simple heartbeat sound.
+# --------------------------------------------------------------------------- #
 
 
-live_loop :flibble do
+
+live_loop :lub do
   sample :bd_haus, rate:0.01
+  puts "Lub"
   sleep 1
 end
 
 sleep 0.18
 
-live_loop :flobble do
+live_loop :dub do
   sample :bd_haus, rate:0.01
+  puts "Dub"
   sleep 1
 end

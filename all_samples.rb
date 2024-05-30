@@ -1,10 +1,15 @@
-# author: @444b
-# date: 22.05.2024
-# title: A script to hear all samples
-
-# Description:  This sonic pi script will cycle through each synth and play each one
-# It also prints the name of the synth to the log so you can play around and remember which ones you like
-
+# --------------------------------------------------------------------------- #
+# Title: all_samples.rb
+#
+# Date: 2024-05-22
+# Unix: 1716380463
+# Author: @444b
+#
+# Description:  This sonic pi script will cycle through each synth and play
+# each one. It also prints the name of the synth to the log so you can play
+# around and remember which ones you like
+#
+# --------------------------------------------------------------------------- #
 
 # Get the list of all available sample categories
 sample_categories = sample_groups

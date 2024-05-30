@@ -1,9 +1,16 @@
-# author: @444b
-# date: 27.02.2024
-# title: A script to hear all synths.
+# --------------------------------------------------------------------------- #
+# Title: all_synths.rb
+#
+# Date: 2024-02-27
+# Unix: 1709057320
+# Author: @444b
+#
+# Description: This sonic pi script will cycle through each synth and play each
+# one it also prints the name of the synth to the log so you can play around
+# and remember which ones you like
+#
+# --------------------------------------------------------------------------- #
 
-# Description: This sonic pi script will cycle through each synth and play each one
-# it also prints the name of the synth to the log so you can play around and remember which ones you like
 
 
 # Get the list of all available synths
