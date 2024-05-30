@@ -15,21 +15,21 @@ current_time_for_metadata = current_utc_time.strftime("%Y-%m-%d %H:%M:%S %z")
 current_unix_time = int(current_utc_time.timestamp())
 
 # Create the content of the post with UTC time and UNIX time
-content = f"""# --------------------------------------------------------------------------- #
-# Title: {title}.rb
-#
-# Date: {date_for_filename}
-# Unix: {current_unix_time}
-# Author: @444b
-# Licence: MIT Licence https://www.tldrlegal.com/license/mit-license
-#
-# Description:
-# --------------------------------------------------------------------------- #
+content = f"""// ------------------------------------------------------------------------- //
+// Title: {title}.js
+//
+// Date: {date_for_filename}
+// Unix: {current_unix_time}
+// Author: @444b
+// Licence: licensed with CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+//
+// Description: 
+// ------------------------------------------------------------------------- //
 
 """
 
 # Generate filename with UTC time
-filename = f"{title.lower().replace(' ', '_')}.rb"
+filename = f"{title.lower().replace(' ', '_')}.js"
 
 # # Create _drafts directory if not exists
 # if not os.path.exists("path/to/dir"):
