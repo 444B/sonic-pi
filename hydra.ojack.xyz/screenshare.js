@@ -6,7 +6,8 @@
 // Author: @444b
 // Licence: CC BY-NC-SA 4.0 - https://creativecommons.org/licenses/by-nc-sa/4.0/
 //
-// Description: 
+// Description: Hydra code to share your screen and add some effects.
+// Run with CTRL+SHIFT+ENTER
 // ------------------------------------------------------------------------- //
 
 // Set higher resolution (e.g., Full HD 1920x1080)
